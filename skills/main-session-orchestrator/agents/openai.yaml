@@ -1,0 +1,4 @@
+interface:
+  display_name: "Main Session Orchestrator"
+  short_description: "Main-led stages, evidence gates, and project dashboards"
+  default_prompt: "Use $main-session-orchestrator to coordinate this project through a Main session, bounded execution stages, evidence-based acceptance, and a progress dashboard."
